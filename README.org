@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/brianjcj/telnetlib-for-common-lisp   |
-| commit  | af770b0  |
-| systems | telnetlib-for-common-lisp |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------------|
+| source  | git:https://github.com/brianjcj/telnetlib-for-common-lisp |
+| commit  | af770b0                                                   |
+| systems | telnetlib                                                 |
+|---------+-----------------------------------------------------------|
